@@ -32,7 +32,7 @@ function Customer() {
                             <td>Laary</td>
                             <td >LarryBird(h)</td>
                             <td>Orange</td>
-                        </tr>
+                        </tr>.
                     </tbody>
                 </Table>
             </div>
